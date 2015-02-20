@@ -12,11 +12,12 @@ package trabajopdoo;
 public class TrabajoPDOO {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments linea modificada sin conflictos
      */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola git");
+        System.out.println("Segunda linea de la rama master");
     }
     
 }
